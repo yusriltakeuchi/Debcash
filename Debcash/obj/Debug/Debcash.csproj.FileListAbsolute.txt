@@ -1,0 +1,58 @@
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\Debcash.exe.config
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\Debcash.exe
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\Debcash.pdb
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\MetroFramework.Design.dll
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\MetroFramework.dll
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\MetroFramework.Fonts.dll
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.csprojResolveAssemblyReference.cache
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Main.resources
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Properties.Resources.resources
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.csproj.GenerateResource.Cache
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.exe
+c:\users\yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.pdb
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Pemasukan.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Pengeluaran.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\EntityFramework.dll
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\System.Data.SQLite.dll
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\EntityFramework.xml
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\bin\Debug\System.Data.SQLite.xml
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Installation.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Login.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.Register.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.FirstSaldo.resources
+C:\Users\Yurani\documents\visual studio 2015\Projects\Debcash\Debcash\obj\Debug\Debcash.About.resources
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\Debcash.exe.config
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.exe
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.pdb
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\Debcash.exe.manifest
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\Debcash.application
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\Debcash.exe
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\Debcash.pdb
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\EntityFramework.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\EntityFramework.SqlServer.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\MetroFramework.Design.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\MetroFramework.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\MetroFramework.Fonts.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\System.Data.SQLite.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\EntityFramework.xml
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\EntityFramework.SqlServer.xml
+F:\Coding Software\Project\Debcash\Debcash\bin\Debug\System.Data.SQLite.xml
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.csprojResolveAssemblyReference.cache
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.About.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.FirstSaldo.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Installation.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Login.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Main.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Pemasukan.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Pengeluaran.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Properties.Resources.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.Register.resources
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.csproj.GenerateResource.Cache
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.exe.manifest
+F:\Coding Software\Project\Debcash\Debcash\obj\Debug\Debcash.application

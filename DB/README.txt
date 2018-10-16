@@ -1,0 +1,1 @@
+Database is automatically created when the software is open on the first time. 
